@@ -1,3 +1,5 @@
+!THIS IS A COPY FOR PERSONAL RESEARCH PURPOSES
+
 ![GMnet GATE.PUNCH](http://parakoopa.de/GMnet/gatepunch.png)
 #GMnet GATE.PUNCH Repository
 This repo contains the master server for GMnet PUNCH (and GMnet ENGINE).
